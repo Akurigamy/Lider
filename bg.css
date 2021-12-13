@@ -8,7 +8,16 @@ body {
 .imgs {
 	width: 100%;
 	height: 25px;
-	text-align: left 100px;
+	padding-left: 123px;
+}
+.imgs2 {
+	width: 100%;
+	height: 25px;
+	padding-left: 200px;
+}
+
+.imgs3 {
+	padding-left: 200px;
 }
 
 .inner {
